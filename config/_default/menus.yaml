@@ -1,0 +1,13 @@
+leftnav:
+- identifier: 71fe6b6e-ad27-482e-8796-17b84e70e1b6
+  name: Transport and Signaling
+  pageRef: /external-resources/transport-and-signaling_71fe6b6e-ad27-482e-8796-17b84e70e1b6
+  weight: 10
+- identifier: e0f7b3ef-ccaa-40b4-82ba-a41dd9ec3ac9
+  name: The Cytoskeleton and Cell Cycle
+  pageRef: /external-resources/the-cytoskeleton-and-cell-cycle_e0f7b3ef-ccaa-40b4-82ba-a41dd9ec3ac9
+  weight: 20
+- identifier: 3477bbb8-48f1-4032-b808-d8108f4a2bf6
+  name: Cell-Cell Interactions
+  pageRef: /external-resources/cell-cell-interactions_3477bbb8-48f1-4032-b808-d8108f4a2bf6
+  weight: 30
